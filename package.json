@@ -1,0 +1,14 @@
+{
+  "name": "slider",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel \"src/index.html\" --port 5000"
+  },
+  "author": "Aron Høyer <aron@hoyer.com> (https://aronhoyer.me)",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.11.0",
+    "parcel-bundler": "^1.12.3"
+  }
+}
